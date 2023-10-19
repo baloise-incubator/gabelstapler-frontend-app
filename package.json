@@ -10,5 +10,9 @@
   },
   "devDependencies": {
     "vite": "^4.4.8"
+  },
+  "dependencies": {
+    "@grafana/faro-web-sdk": "^1.2.1",
+    "@grafana/faro-web-tracing": "^1.2.1"
   }
 }
